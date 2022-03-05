@@ -1,0 +1,4 @@
+run = "sbcl --script main.lisp"
+
+[nix]
+channel = "stable-21_11"
