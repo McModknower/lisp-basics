@@ -1,3 +1,5 @@
+;; this file is here to make the project more structured and make it easier to search for specific things
+
 (format t "~%~%Start numbers.lisp~%~%")
 
 ;; the function + can take any number of arguments:
@@ -27,6 +29,5 @@
 (format t "more arguments: ~a~%" (- 10 1/2))
 (format t "one argument: ~a~%" (/ 10))
 (format t "more arguments: ~a~%" (/ 10 2))
-
 
 (format t "~%End numbers.lisp~%~%")

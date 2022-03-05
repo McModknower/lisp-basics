@@ -32,3 +32,4 @@
 (format t "keys ~a~%Result: ~a~%" '('a :b 'b :e 'e :d 'd) (keys 'a :b 'b :e 'e :d 'd))
 
 (load "numbers.lisp")
+(load "loops.lisp")
