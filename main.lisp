@@ -34,3 +34,4 @@
 (load "output.lisp")
 (load "numbers.lisp")
 (load "loops.lisp")
+(load "lists.lisp")
